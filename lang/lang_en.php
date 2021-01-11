@@ -3,8 +3,7 @@ define("_HOME", "HOME");
 define("_PRODUCT1_NAME", "LALAKU PANTS");
 define("_PRODUCT1_TITLE", 'Baby diapers "LALAKU" panties');
 define("_PRODUCT2_NAME", "LALAKU DIAPERS");
-define("_PRODUCT2_TITLE", 'Baby diapers "LALAKU" are specially created from natural materials using advanced 
-technologies to provide maximum comfort for Your child.');
+define("_PRODUCT2_TITLE", 'Baby diapers "LALAKU".');
 define("_PRODUCT3_NAME", "LALAKU MAMA POSTPARTUM PADS");
 define("_PRODUCT3_TITLE", 'Baby diapers "LALAKU" panties');
 define("_PRODUCT4_NAME", "LALAKU MAMA SANITARY NAPKINS");

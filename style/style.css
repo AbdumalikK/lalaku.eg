@@ -254,24 +254,6 @@ a:hover {
 	left: 23%;
 	z-index: 4;
 }
-@media screen and (max-width: 570px) {
-	.lang-card > h1{
-		font-size: 15px;
-	}
-	.lang-card > h2{
-		font-size: 14px;
-	}
-	.lang-position {
-		top: 27%;
-		left: 0%;
-	}
-	.title {
-		position: absolute;
-		top: 12%;
-		left: 10px;
-		margin-top: 0px;
-	}
-}
 .lang-card {
 	padding: 32px 24px;
 }
@@ -308,6 +290,22 @@ a:hover {
 }
 
 @media screen and (max-width: 570px) {
+	.lang-card > h1{
+		font-size: 15px;
+	}
+	.lang-card > h2{
+		font-size: 14px;
+	}
+	.lang-position {
+		top: 27%;
+		left: 0%;
+	}
+	.title {
+		position: absolute;
+		top: 12%;
+		left: 10px;
+		margin-top: 0px;
+	}
 	.main-content-button {
 		margin-top: 60%;
 	}

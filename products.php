@@ -16,7 +16,7 @@ include_once "core/lang.php";
     <link rel="stylesheet" href="style/css/products.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
     <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script> -->
     <script src="style/bootstrap4/js/bootstrap.min.js"></script>
 	<!-- <script src="style/js/index.js"></script> -->
 	<link rel="stylesheet" href="style/css/fullpage.css">

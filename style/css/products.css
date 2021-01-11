@@ -39,7 +39,6 @@
 .product-contact-top-first {
     margin-top: -5%;
 }
-
 @media screen and (max-width: 700px) {
     .sct0, .sct1, .sct2, .sct3, .sct4 {
     background-size: 100%;
@@ -50,8 +49,16 @@
     .product-contact-top-first {
         margin-top: -100px /*-30%*/;
     }
+    .item-size {
+        font-size: 10px!important;
+    }
+    .text-bold {
+        font-size: 22px!important;
+    }
+    p {
+        font-size: 11px!important;
+    }
 }
-
 .title{
     position: absolute;
     top: 0%;
@@ -70,6 +77,9 @@
     }
     .mt-minus-5 {
         margin-top: -30%!important;
+    }
+    .social-icon {
+        font-size: 35px!important;
     }
 } 
 
